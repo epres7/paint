@@ -18,6 +18,8 @@ Known issues:
 - Hexcode colors only have names for certain ones, not sure how to get names for the rest of the palette
 - Canvas resizing loses quality over time
 - Drawing shapes and lines after shapes decreases image quality over time
+- Drawing lines and shapes erase image
+- Can't draw more than one shape at a time
 
 Expected next sprint:
 - Undo and Redo - this MUST use at least (more is ok) one "stack" (this is an abstract data structure in Java)
